@@ -3,5 +3,5 @@
 
 # compiled
 node_modules
-bundle.js
-bundle.js.map
+src_ts/bundle.js
+src_ts/bundle.js.map
