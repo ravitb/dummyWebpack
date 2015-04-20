@@ -1,0 +1,7 @@
+# IDE project files
+.idea
+
+# compiled
+node_modules
+bundle.js
+bundle.js.map
